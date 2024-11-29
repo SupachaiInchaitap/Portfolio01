@@ -9,7 +9,7 @@ body {
 header {
     text-align: center;
     padding: 2rem;
-    background-color: #f4f4f4;
+    background-color: #a1baf0;
 }
 
 header h1 {
@@ -24,13 +24,14 @@ header p {
 
 nav {
     text-align: center;
-    margin: 1rem 0;
+    background-color: #c1d1f5;
 }
 
 nav a {
     margin: 0 1rem;
     text-decoration: none;
     color: #0073e6;
+    padding: 2rem;
 }
 
 nav a:hover {
